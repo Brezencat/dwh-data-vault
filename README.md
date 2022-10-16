@@ -1,6 +1,8 @@
 # dwh-data-vault
 
 ## Описание
+* [Краткая инфографика по сущностям Data Vault](docs/data-vault-brief.png)
+* [](docs/dwh-steps-business.png)
 * [Структура хранилища. Описание](docs/stucture.md)
 
 ## Примеры скриптов
